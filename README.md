@@ -40,7 +40,7 @@ ___
 
 ### Find me on Social
 
-[<img alt="Linkedin Social Image" width="40px" src="https://github.com/c76w/c76w/blob/main/linkedin.png" />](https://www.linkedin.com/in/chris-walsh-757422254/)
+[<img alt="Linkedin Social Image" width="40px" src="https://github.com/c76w/c76w/blob/main/linkedin.png" />](https://www.linkedin.com/in/chris-walsh-in/)
 
 <!--
 **c76w/c76w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
